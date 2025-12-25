@@ -1,0 +1,7 @@
+{
+  "name": "Zenith AI Particle System",
+  "description": "A high-performance interactive 3D particle system controlled by hand gestures. Features morphing shapes, cinematic bloom, and real-time response.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
